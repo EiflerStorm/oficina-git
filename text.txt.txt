@@ -1,1 +1,3 @@
 Olá, estou na oficina de git
+
+Abacaxi e laranja
